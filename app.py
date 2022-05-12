@@ -4,9 +4,9 @@ import os
 from pygame import mixer
 
 canvas = tk.Tk()
-canvas.title("Music Player")
+canvas.title("Music Player by Perez")
 canvas.geometry("600x800")
-canvas.config(bg ='black')
+canvas.config(bg ='grey')
 
 rootpath = "C:\\Users\Hunter\Downloads\Music"
 pattern = "*.mp3"
